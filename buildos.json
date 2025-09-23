@@ -39,6 +39,7 @@
         {"build": "22631.5039", "month": "March 2025"},
         {"build": "22631.5126", "month": "March 2025"},
         {"build": "22631.5189", "month": "April 2025"},
+        {"build": "22631.5192", "month": "April 2025"},
         {"build": "22631.5262", "month": "April 2025"},
         {"build": "22631.5335", "month": "May 2025"},
         {"build": "22631.5413", "month": "May 2025"},
@@ -48,8 +49,8 @@
         {"build": "22631.5624", "month": "July 2025"},
         {"build": "22631.5699", "month": "July 2025"},
         {"build": "22631.5768", "month": "August 2025"},
-        {"build": "22631.5840", "month": "August 2025"},
         {"build": "22631.5771", "month": "August 2025"},
+        {"build": "22631.5840", "month": "August 2025"},
         {"build": "22631.5909", "month": "September 2025"}
       ]
     },
@@ -102,6 +103,24 @@
         {"build": "26200.6713", "month": "September 2025"}
       ]
     }
+  ],
+  "Windows10Builds": [
+    {
+      "version": "22H2",
+      "release_month": "October 2022",
+      "builds": [
+        {"build": "19045.5859", "month": "May 2025"},
+        {"build": "19045.5917", "month": "May 2025"},
+        {"build": "19045.5965", "month": "June 2025"},
+        {"build": "19045.5968", "month": "June 2025"},
+        {"build": "19045.6036", "month": "June 2025"},
+        {"build": "19045.6093", "month": "July 2025"},
+        {"build": "19045.6159", "month": "July 2025"},
+        {"build": "19045.6216", "month": "August 2025"},
+        {"build": "19045.6218", "month": "August 2025"},
+        {"build": "19045.6282", "month": "August 2025"},
+        {"build": "19045.6332", "month": "September 2025"}
+      ]
+    }
   ]
 }
-
